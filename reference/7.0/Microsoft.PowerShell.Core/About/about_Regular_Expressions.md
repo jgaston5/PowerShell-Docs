@@ -193,7 +193,7 @@ characters.
 ```
 
 > [!NOTE]
-> WHen defining a regex containing an `$` anchor, be sure to enclose the regex
+> When defining a regex containing an `$` anchor, be sure to enclose the regex
 > using single quotes (`'`) instead of double quotes (`"`) or PowerShell will
 > expand the the expression as a variable.
 
